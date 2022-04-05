@@ -1372,7 +1372,7 @@ GEM
     xml-simple (1.1.5)
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    yajl-ruby (1.4.1)
+    yajl-ruby (1.4.2)
     yard (0.9.26)
     zeitwerk (2.5.1)
 
@@ -1659,7 +1659,7 @@ DEPENDENCIES
   webmock (~> 3.9.1)
   webrick (~> 1.6.1)
   wikicloth (= 0.8.1)
-  yajl-ruby (~> 1.4.1)
+  yajl-ruby (~> 1.4.2)
 
 BUNDLED WITH
    2.1.4
