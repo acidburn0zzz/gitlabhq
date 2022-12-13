@@ -730,7 +730,7 @@ GEM
       activesupport (>= 4)
       railties (>= 4)
       request_store (~> 1.0)
-    loofah (2.12.0)
+    loofah (2.19.1)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     lru_redux (1.1.0)
@@ -950,7 +950,7 @@ GEM
       puma (>= 2.7)
     pyu-ruby-sasl (0.0.3.3)
     raabro (1.1.6)
-    racc (1.5.2)
+    racc (1.6.1)
     rack (2.2.3)
     rack-accept (0.4.5)
       rack (>= 0.4)
@@ -1525,7 +1525,7 @@ DEPENDENCIES
   licensee (~> 9.14.1)
   lockbox (~> 0.6.2)
   lograge (~> 0.5)
-  loofah (~> 2.2)
+  loofah (~> 2.19)
   lru_redux
   mail (= 2.7.1)
   mail-smtp_pool (~> 0.1.0)!
