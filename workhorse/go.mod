@@ -34,8 +34,8 @@ require (
 	gocloud.dev v0.23.0
 	golang.org/x/image v0.0.0-20191009234506-e7c1f5e7dbb8
 	golang.org/x/lint v0.0.0-20201208152925-83fdc39ff7b5
-	golang.org/x/net v0.0.0-20210505214959-0714010a04ed
-	golang.org/x/tools v0.1.0
+	golang.org/x/net v0.7.0
+	golang.org/x/tools v0.1.12
 	google.golang.org/grpc v1.38.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.31.0 // indirect
 	honnef.co/go/tools v0.1.3
