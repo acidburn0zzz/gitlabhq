@@ -486,9 +486,9 @@ gem 'gitaly', '~> 14.4.0.pre.rc43'
 # KAS GRPC protocol definitions
 gem 'kas-grpc', '~> 0.0.2'
 
-gem 'grpc', '~> 1.30.2'
+gem 'grpc', '~> 1.56.0'
 
-gem 'google-protobuf', '~> 3.17.1'
+gem 'google-protobuf', '~> 3.23.3'
 
 gem 'toml-rb', '~> 2.0'
 
