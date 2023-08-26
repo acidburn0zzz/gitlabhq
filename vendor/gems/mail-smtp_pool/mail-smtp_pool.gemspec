@@ -22,5 +22,5 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'mail', '~> 2.7'
 
   # Please maintain alphabetical order for dev dependencies
-  spec.add_development_dependency 'rspec', '~> 3.10.0'
+  spec.add_development_dependency 'rspec', '~> 3.12.0'
 end
